@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "netology": "echo \"netology\"",
-    "start": "http-server ./src"
+    "start": "browser-sync start --server --files \"src/*.*\" --ss \"./src\""
   },
   "repository": {
     "type": "git",
