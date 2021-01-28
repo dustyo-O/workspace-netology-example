@@ -1,0 +1,23 @@
+{
+  "name": "workspace-from-scratch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "netology": "echo \"netology\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dustyo-O/example-ajs-workspace.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dustyo-O/example-ajs-workspace/issues"
+  },
+  "homepage": "https://github.com/dustyo-O/example-ajs-workspace#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
