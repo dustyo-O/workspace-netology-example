@@ -18,7 +18,8 @@
     "url": "https://github.com/dustyo-O/example-ajs-workspace/issues"
   },
   "homepage": "https://github.com/dustyo-O/example-ajs-workspace#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "http-server": "^0.12.3"
   }
 }
