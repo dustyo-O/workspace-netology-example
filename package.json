@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "netology": "echo \"netology\""
+    "netology": "echo \"netology\"",
+    "start": "http-server ."
   },
   "repository": {
     "type": "git",
